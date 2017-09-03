@@ -1,0 +1,22 @@
+{
+  "name": "fgpstudio-frontend",
+  "description": "Diseño frontend para MEM Studio",
+  "main": "index.html",
+  "authors": [
+    "The man in the world"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/franpola/fgpstudio-fronend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "font-awesome": "^4.7.0"
+  }
+}
